@@ -1,0 +1,4 @@
+1) Create a post and add to firestore 'posts' collection
+2) get the post ID for the newly created post
+3) upload the images to firestore storage with the post ID
+4) get a download URL from firebase storage and update the original post with image
